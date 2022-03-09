@@ -1,0 +1,13 @@
+2013/2014
+
+Było coś w stylu:
+-wypisać te zamownienia, które mają cenę przesyłki wyższą niż avg cen przesyłek w danym roku;
+-wypisać czytelników, ktorzy nie przeczytali żadnej książki w 1996 roku;
+-wypisać nazwy przewoźnikow wraz z kwotą jaką zarobili na przesyłkach z rozbiciem na lata, miesiące;
+-wypisać klientow wraz z wartoscia zamowien z uwzglednieniem przesylki.
+
+Grupa II
+1. Wypisać nazwy przewoźników i kwoty im należne z podziałem na lata, miesiące.
+2. Wypisać ceny produktów, których cena jednostkowa jest nie mniejsza od średniej ceny produktów tej samej kategorii (z podzapytaniem i bez).
+3. Wypisać imię i nazwisko pracownika, który obsłużył łącznie zamówienia o największej wartości w 1997.
+4. Wypisać pozycje zamówienia, których cena z rabatem jest mniejsza od średniej ceny z wszystkich pozycji zamówienia (z podzapytaniem i bez).

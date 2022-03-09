@@ -1,0 +1,12 @@
+2015/2016
+1.a) Wyświetl imię, nazwisko, dane adresowe oraz ilość wypożyczonych książek dla każdego członka biblioteki. Ilość wypożyczonych książek nie może być nullem, co najwyżej zerem.
+b) j/w + informacja, czy dany członek jest dzieckiem
+2. wyświetl imiona i nazwiska osób, które nigdy nie wypożyczyły żadnej książki
+a) bez podzapytań
+b) podzapytaniami
+3. wyświetl numery zamówień, których cena dostawy była większa niż średnia cena za przesyłkę w tym roku
+a) bez podzapytań
+b) podzapytaniami
+4. wyświetl ile każdy z przewoźników miał dostać wynagrodzenia w poszczególnych latach i miesiącach.
+a) bez podzapytań
+b) podzapytaniami

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Downloads/kolos.sql" dialect="TSQL" />
+    <file url="file://$USER_HOME$/Downloads/piotr_rzasa_wojciech_karpiel-konferencje-zygmunt/Piotr Rząsa Wojciech Karpiel bazy/cała_baza.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../#Projekt/Backupy/Kod/[1] Schemat bazy danych.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2008-2009/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2009-2010/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2010-2011/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2011-2012/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2015-2016 poprawkowe/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2015-2016/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../../Kolokwium/2019-2020/Rozwiązania.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../#Pomocnicze/pbd_sql_zajecia/3. Zajęcia.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../#Pomocnicze/pbd_sql_zajecia/4. Ćwiczenia.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../1. Laboratorium/Z laboratorium/Laboratorium1.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../1. Laboratorium/Zadanie domowe/Zadanie_domowe1.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../Z laboratorium/Laboratorium2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Zadanie_domowe2.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../3. Laboratorium/Z laboratorium/Laboratorium3.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../3. Laboratorium/Zadanie domowe/Zadanie_domowe3.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../4. Laboratorium/Z laboratorium/Laboratorium4.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../4. Laboratorium/Zadanie domowe/Zadanie_domowe4.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../6. Laboratorium/Z laboratorium/Laboratorium6.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../6. Laboratorium/Zadanie domowe/Zadanie_domowe6.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../7. Laboratorium/Z zajęć/Laboratorium7.sql" dialect="TSQL" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+1. Wypisz te produkty które kupiło co najmniej 2 klientów
+a) podzapytaniem
+b) bez podzapytań
+2. Znajdź produkt (podaj jego nazwę), który przyniósł najmniejszy dochód (większy od zera) w 1996 roku

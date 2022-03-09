@@ -1,0 +1,9 @@
+2009/2010
+1. Podaj łączną wartość zamówień dla każdego zamówienia (uwzględnij cenę za przesyłkę) - podaj rozwiązanie BEZ mechanizmu podzapytań
+2. Czy są jacyś czytelnicy, którzy nie przeczytali żadnej książki w 1996 roku?
+	Rozwiąż zadanie dwoma sposobami: przy użyciu mechanizmów podzapytań i bez użycia podzapytań
+3. Podaj wszystkie zamówienia, dla których opłata za przesyłkę 
+	była większa od średniej opłaty za przesyłkę zamówień złożonych w tym samym roku. 
+	Podaj rozwiązanie z wykorzystaniem mechanizmu podzapytań oraz bez mechanizmu.
+4. Dla każdego pracownika podaj jego imię i nazwisko oraz całkowitą liczbę zamówień,
+	jakie obsłużył ogółem oraz z rozbiciem na lata, kwartały i miesiące.

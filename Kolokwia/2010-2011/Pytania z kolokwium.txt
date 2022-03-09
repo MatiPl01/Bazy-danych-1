@@ -1,0 +1,6 @@
+2010/2011
+1. Wybierz nazwy i numery telefonów klientów, którzy nie kupili żadnego produktu z kategorii ‘Confections’. Rozwiązać używając mechanizmu podzapytań.
+2. Dla każdego produktu podaj jego nazwę kategorii, nazwę produktu, cenę, średnią cenę wszystkich produktów danej kategorii oraz różnicę między ceną produktu a średnią ceną wszystkich produktów danej kategorii.
+3. Dla każdego pracownika wypisz ilość zamówień, jakie obsłużył w 1997 roku, podaj także datę ostatniego obsługiwanego przez niego zamówienia (w 1997 r.).
+Interesują nas pracownicy, którzy obsłużyli więcej niż sześć zamówień.
+4. Wypisz kwoty należne przewoźnikom z podziałem na lata.

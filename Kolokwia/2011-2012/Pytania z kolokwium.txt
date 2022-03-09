@@ -1,0 +1,6 @@
+2011/2012
+(Coś w stylu):
+1. wypisać te zamownienia, które mają cenę przesyłki wyższą niż avg cen przesyłek w danym roku;
+2. wypisać czytelników, ktorzy nie przeczytali żadnej książki w 1996 roku;
+3. wypisać nazwy przewoźnikow wraz z kwotą jaką zarobili na przesyłkach z rozbiciem na lata, miesiące;
+4. wypisać klientow wraz z wartoscia zamowien z uwzglednieniem przesylki.
